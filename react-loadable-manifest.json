@@ -1,0 +1,44 @@
+{
+  "..\\node_modules\\@solana\\wallet-adapter-blocto\\lib\\esm\\adapter.mjs -> @blocto/sdk": {
+    "id": 52746,
+    "files": [
+      "static/chunks/06f47d9b.dfa58215a87a74cc.js"
+    ]
+  },
+  "..\\node_modules\\@solana\\wallet-adapter-ledger\\lib\\esm\\adapter.mjs -> @ledgerhq/hw-transport-webhid": {
+    "id": 4210,
+    "files": [
+      "static/chunks/210.1a7fa8678c9d4660.js"
+    ]
+  },
+  "..\\node_modules\\@solana\\wallet-adapter-solflare\\lib\\esm\\adapter.mjs -> @solflare-wallet/sdk": {
+    "id": 54202,
+    "files": [
+      "static/chunks/202.a4b416750fc72b49.js"
+    ]
+  },
+  "..\\node_modules\\@solana\\wallet-adapter-sollet\\lib\\esm\\base.mjs -> @project-serum/sol-wallet-adapter": {
+    "id": 66770,
+    "files": [
+      "static/chunks/770.fdf27c3822c90779.js"
+    ]
+  },
+  "..\\node_modules\\@solana\\wallet-adapter-torus\\lib\\esm\\adapter.mjs -> @toruslabs/solana-embed": {
+    "id": 44344,
+    "files": [
+      "static/chunks/29107295.1494f237b9e407ad.js",
+      "static/chunks/145-7c43a48b65e46e27.js",
+      "static/chunks/344.a7391cbf5f511efb.js",
+      "static/chunks/507.196ca856ffab1ea4.js"
+    ]
+  },
+  "_app.tsx -> ../components/WalletProvider/WalletProvider": {
+    "id": 81304,
+    "files": [
+      "static/chunks/8015bd09-93c625fad5b1b29c.js",
+      "static/chunks/314-1dbb876297c83455.js",
+      "static/chunks/437.a2e2108b41bab049.js",
+      "static/chunks/857.c1eace72eb62cfaf.js"
+    ]
+  }
+}
